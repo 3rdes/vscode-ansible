@@ -1042,7 +1042,7 @@
     "eslint-plugin-tsdoc": "^0.4.0",
     "express": "^5.1.0",
     "find-process": "^1.4.10",
-    "glob": "^11.0.3",
+    "glob": "^11.1.0",
     "globals": "^16.3.0",
     "jsdom": "^26.1.0",
     "lodash": "^4.17.21",
