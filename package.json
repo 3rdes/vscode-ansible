@@ -993,7 +993,7 @@
     "highlight.js": "^11.11.1",
     "ini": "^5.0.0",
     "marked": "^16.1.1",
-    "minimatch": "^10.0.3",
+    "minimatch": "^10.2.1",
     "primevue": "4.3.6",
     "semver": "^7.7.2",
     "uuid": "^11.1.0",
