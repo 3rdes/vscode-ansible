@@ -1002,7 +1002,7 @@
     "vscode-uri": "^3.1.0",
     "vue": "^3.5.17",
     "vue-tsc": "^3.0.3",
-    "yaml": "^2.8.0"
+    "yaml": "^2.8.3"
   },
   "description": "Ansible language support",
   "devDependencies": {
